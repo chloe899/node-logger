@@ -1,6 +1,17 @@
 {
-  "name": " NodeLogger ",
+  "name": " node-logger ",
   "version": "0.1.0",
+  "description": "simplete node logger with the file name",
+  "keywords": [
+    "Base64",
+    "stream",
+    "streaming",
+    "piping",
+    "node",
+    "node.js",
+    "encode",
+    "decode"
+  ],
   "dependencies": {
     "log": "1.3.0"
   },
