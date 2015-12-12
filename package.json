@@ -2,6 +2,10 @@
   "name": " node-logger ",
   "version": "0.1.0",
   "description": "simplete node logger with the file name",
+  "author": {
+    "name": "dcbr4",
+    "email": "dcbing@gmail.com"
+  },
   "keywords": [
     "Base64",
     "stream",

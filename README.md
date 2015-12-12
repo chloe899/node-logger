@@ -2,8 +2,10 @@
 simple node logger
 
 
-#useage
+#usage
 
 var log = require("note-logger").getLogger();
+
 log.debug("info")
+
 log.error("info")
